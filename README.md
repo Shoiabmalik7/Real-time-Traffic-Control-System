@@ -20,6 +20,4 @@ The Real-Time Traffic Light Control System with Pedestrian Crossing is a project
 - **Buzzer**
 - **C Programming**
 
----
 
-You can add this as the project description to your GitHub README file. Let me know if you need further changes!
